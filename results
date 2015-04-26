@@ -1,0 +1,37 @@
+Stats for  ipspmpa
+Vocab count:  113
+Unique:  set(['feedback', 'random', 'hearing', 'assigned', 'entropy', 'signs', 'size', 'probabilities', 'input', 'corpus', 'type', 'non', 'format', 'familiar', 'aware', 'computervision', 'cultural', 'reversible', 'module', 'level', 'contexts', 'fully', 'notes', 'switching', 'lose', 'require', 'compare', 'process', 'recognize', 'topics', 'reduce', 'related', 'heard', 'seem', 'bodylanguage', 'machine', 'reformulate', 'closed', 'infer', 'dialect', 'multiple', 'closest', 'track', 'completely', 'focused', 'along', 'optimize', 'interpret', 'origins', 'receive', 'region', 'cover', 'switch', 'maintain', 'allow', 'threads', 'frequent'])
+Unique count:  57
+Word count:  136
+Word count total (including stopwords):  271
+Score estimation:  37.7474264706
+
+Stats for  fgsfgd
+Vocab count:  99
+Unique:  set(['period', 'deadline', 'pause', 'depend', 'exclusively', 'languages', 'gesticulation', 'regional', 'immediate', 'look', 'meeting', 'sometime', 'give', 'influence', 'yeah', 'parse', 'computer', 'seen', 'event', 'pronounced', 'situated', 'chemical', 'answer', 'probably', 'conclusion', 'formulas', 'express', 'scientific', 'however', 'quite', 'uses', 'frequently', 'suggested', 'longer', 'elaborate', 'omit', 'days', 'face', 'alot', 'usually', 'automatically', 'vocatives'])
+Unique count:  42
+Word count:  129
+Word count total (including stopwords):  248
+Score estimation:  27.9728682171
+
+Stats for  leulloe
+Vocab count:  260
+Unique:  set(['involved', 'hate', 'specifically', 'knowledge', 'combo', 'overpowered', 'notation', 'far', 'deviates', 'cannot', 'entire', 'leave', 'bad', 'settle', 'seeng', 'questions', 'likely', 'youself', 'nightmare', 'tend', 'shared', 'available', 'notice', 'degree', 'missing', 'bacause', 'understanding', 'spare', 'extent', 'pity', 'instant', 'larger', 'changes', 'thats', 'tough', 'suddenly', 'explained', 'ask', 'analyzing', 'chunks', 'forums', 'brb', 'metaphor', 'outsider', 'would', 'add', 'underlying', 'memory', 'care', 'tell', 'becomes', 'effort', 'must', 'anything', 'science', 'reproduce', 'three', 'making', 'fgsfgd', 'im', 'minimum', 'caution', 'id', 'emoticons', 'unfortunate', 'document', 'dive', 'wrong', 'data', 'makes', 'lines', 'thought', 'without', 'representation', 'breaker', 'left', 'indeed', 'mission', 'rest', 'mistakes', 'human', 'style', 'readers', 'trying', 'seems', 'gangnam', 'lets', 'willing', 'choose', 'speaker', 'real', 'paraverbal', 'possible', 'psy', 'interrupt', 'bit', 'standardization', 'specific', 'audience', 'mean', 'back', 'unambigous', 'repeat', 'transitions', 'happens', 'honorably', 'space', 'singing', 'since', 'content', 'everything', 'imperative', 'power', 'put', 'simpler', 'advance', 'oh', 'phrases', 'could', 'keep', 'plus', 'whistles', 'backup', 'software', 'seeing', 'contractions', 'another', 'chatbots', 'system', 'textual', 'anyone', 'analyze', 'listen', 'chats', 'doomed', 'took', 'luckily', 'part', 'line', 'expressivity', 'treated', 'onomatopoeia', 'int', 'well', 'describe', 'mind', 'clearly', 'complete', 'forced', 'fools', 'poor', 'users', 'vocabulary', 'symbol', 'structure', 'considered', 'hi', 'wow', 'fact'])
+Unique count:  159
+Word count:  375
+Word count total (including stopwords):  724
+Score estimation:  104.025733333
+
+Stats for  Juvete
+Vocab count:  217
+Unique:  set(['represent', 'partial', 'years', 'brain', 'isnt', 'manages', 'fine', 'children', 'contrained', 'correctg', 'thinking', 'original', 'permanent', 'differently', 'easy', 'covered', 'include', 'thousands', 'achieve', 'instantly', 'meant', 'thinkin', 'whistle', 'every', 'syntax', 'grammar', 'countries', 'common', 'team', 'view', 'everyone', 'old', 'understood', 'duration', 'plays', 'overly', 'pronounctiation', 'rite', 'email', 'told', 'perfect', 'evolving', 'meanings', 'job', 'base', 'consideration', 'invented', 'refer', 'change', 'boy', 'proofread', 'standalone', 'joke', 'nonverbal', 'whistled', 'onesentece', 'narators', 'important', 'leulloe', 'reptetions', 'whole', 'first', 'exactly', 'major', 'tasks', 'letters', 'point', 'number', 'texts', 'fast', 'simplet', 'says', 'ont', 'necessarily', 'determining', 'keypoints', 'sort', 'intetions', 'somenone', 'humans', 'analyse', 'broadcast', 'dramatic', 'particular', 'sound', 'specialised', 'word', 'wouldnt', 'versions', 'remaining', 'record', 'parsers', 'evolved', 'country', 'spontaneous', 'due', 'depeding', 'phrase', 'spojen', 'hesitate', 'whereas', 'connection', 'discourse', 'drawback', 'big', 'several', 'theatre', 'shall', 'english', 'problems', 'whistling', 'hand', 'scripts', 'grammaticaly', 'probabilistic', 'funnier', 'correspondent', 'documents', 'talk'])
+Unique count:  119
+Word count:  304
+Word count total (including stopwords):  652
+Score estimation:  78.1006578947
+
+Conversation stats:
+Vocab count:  505
+Word count:  944
+Word count total (including stopwords):  1895
+Avg time gap between lines:  1.76623376623

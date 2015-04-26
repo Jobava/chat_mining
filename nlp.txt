@@ -1,0 +1,226 @@
+23:18 leulloe: Hi
+23:19 fgsfgd: Have you seen the new assignment?
+23:20 Juvete: Yes, I did.
+23:20 leulloe: The one about the differences between linear text and chat?
+23:21 fgsfgd: Yeah, the deadline is in a few days
+23:22 Juvete: Between linear text and conversations, which include chat and spoken discourse
+23:22 leulloe: Oh, since we were asked for a chat log, I thought only chat was involved.
+23:23 ipspmpa: Not at all.
+23:23 Juvete: We were asked for a chat log because it it easier to record
+23:24 Juvete: Shall we start?
+23:24 leulloe: Let's dive into it.
+23:24 leulloe: I'd start with a bit of history.
+23:25 Juvete: History of speech and writing?
+23:25 leulloe: Indeed.
+23:25 ipspmpa: And its origins.
+23:25 Juvete: I know writing is several thousands years old.
+23:26 leulloe: And speaking even older than that.
+23:26 Juvete: Whereas speech is a lot older
+23:27 ipspmpa: An update for communication through signs.
+23:27 Juvete: Both have been contrained while evolving, but in different ways
+23:28 Juvete: Speech is designed to be easy to pronounce
+23:28 Juvete: On the other hand, writing was invented as a log, but it evolved to have a formal base
+23:29 leulloe: Designed sounds like a bit too much.
+23:29 Juvete: You get my point
+23:29 leulloe: :D
+23:29 leulloe: Well, luckily for us, writing has an "official version"
+23:30 ipspmpa: Optimize during time, I say.
+23:30 Juvete: Which is also updated, but not as fast as the spojen language
+23:30 leulloe: Without that degree of standardization, the symbol for 'a' would have no meaning.
+23:31 leulloe: Well, written language is updated after changes in spoken language settle.
+23:31 Juvete: But maybe 'a' was first used before writing
+23:31 Juvete: Correct.
+23:32 leulloe: When spoken language deviates too much from the current written version, an update is forced.
+23:32 leulloe: It's like a backup system.
+23:32 ipspmpa: Also, you can find multiple dialects in a small region.
+23:33 Juvete: Written language has been used for official documents
+23:33 Juvete: So it has to be understood by all the people in a country in the same way.
+23:33 leulloe: @ipspmpa: And that happens because a speaker doesn't know all the rules of the spoken language.
+23:33 leulloe: They make mistakes.
+23:34 leulloe: Fools repeat those mistakes and suddenly, it becomes official.
+23:34 leulloe: That's what makes spoken language so flexible.
+23:34 ipspmpa: So, when we learn from it, new dialect appear.
+23:35 Juvete: Not necessarily. For example English has many dialects, but every country says that their version is correct.
+23:35 ipspmpa: Especially US people.
+23:36 Juvete: Good one :)
+23:36 fgsfgd: These dialects also appear from the influence of other languages.
+23:36 leulloe: And that's what is unfortunate for spoken language.
+23:37 leulloe: I pity the program trying to understand it.
+23:37 Juvete: The dialects are a major drawback for programs that analyse syntax
+23:37 Juvete: Because it has to take in consideration more rules and versions of words.
+23:37 ipspmpa: It is difficult to track each one along multiple contexts.
+23:38 Juvete: Also, grammar for spoken language is more flexible.
+23:38 ipspmpa: Many of them are focused only on language detection.
+23:39 fgsfgd: Even for us, it may be a problem to understand someone who uses different regional words
+23:39 Juvete: Been there, done that.
+23:39 leulloe: It is, not may be.
+23:40 leulloe: I like the fact that in a conversation you can correct youself if you get something wrong.
+23:41 Juvete: For example: *yourself
+23:41 leulloe: By conversation I mean both spoken conversation or IM.
+23:41 leulloe: See?
+23:41 leulloe: :D
+23:42 Juvete: Written texts are meant to be permanent.
+23:42 Juvete: So you have to think more to be sure that it is grammaticaly correct.g
+23:42 leulloe: And that's why a lot of effort is put into making sure it is as unambigous as possible.
+23:42 ipspmpa: In spoken language, this flexible format allow an easier way to receive feedback.
+23:43 leulloe: Yes, it's instant
+23:43 fgsfgd: In spoken conversation, however, one may also have pauses, or may pronounce words longer
+23:43 Juvete: Intonation
+23:43 leulloe: Or paraverbal communication.
+23:43 ipspmpa: Which in not cover, completely, by punctuation.
+23:44 Juvete: How you pronounce words can change the whole meaning of a phrase.
+23:44 Juvete: So a program such take it into consideration.
+23:44 fgsfgd: In a face to face communication, some words may not event be pronounced, but suggested by gesticulation
+23:44 Juvete: Exactly
+23:44 leulloe: Or emoticons in chat.
+23:45 Juvete: If you take all of this away, then the remaining text doesn't represent all the original intetions.
+23:45 ipspmpa: For body-language - this will require a computer-vision module to process the information.
+23:45 leulloe: So you have to add more text to describe everything.
+23:46 leulloe: To not leave anything out.
+23:46 Juvete: You see this in scripts for plays at the theatre.
+23:47 fgsfgd: When writing, you can express more elaborate ideas, which you may omit when speaking.
+23:47 leulloe: Maybe bacause you think so much about it?
+23:47 Juvete: @ ipspmpa, Also you will need something for the intonation
+23:48 Juvete: Speaking is spontaneous
+23:48 fgsfgd: Yeah, you do not have to give an immediate answer, you have enough time to think about it
+23:49 ipspmpa: You have time to reformulate your ideas.
+23:49 Juvete: This is why you proof-read an email, just as it was done for letters
+23:49 leulloe: And in writing, you have one topic and must have nice transitions to another one, or your readers might hate you.
+23:49 leulloe: Notice how int this conversation we have about three topic at the same time?\
+23:49 leulloe: in*
+23:50 fgsfgd: And for this, you are using a more formal language, which can make easier to automatically parse them with the help of a computer program
+23:51 leulloe: Again, the nightmare of software. topic detection on small chunks of words
+23:51 ipspmpa: Compare to spoken language where you have to infer the topics.
+23:51 Juvete: Some important problems for parsing a speech are that is has a lot of pauses, reptetions
+23:51 Juvete: You don't hesitate when you rite
+23:51 Juvete: *write
+23:52 leulloe: @fgsfgd, Even if you are using a formal language, the available vocabulary is larger.
+23:52 leulloe: And the constructions are more complex, since you don't have to keep them in your memory, you have them written.
+23:53 leulloe: That makes parsing not so simple.
+23:53 ipspmpa: In speaking, is used familiar words and reduce the size of the corpus.
+23:53 Juvete: For spoken language you have to have simplet constructions, because it is meant to be used by everyone, and I refer especially by children
+23:53 ipspmpa: Use more frequent words.
+23:54 ipspmpa: Non complex constructions.
+23:54 leulloe: And contractions, because we cannot spare the time to use the entire words.
+23:55 Juvete: This is a big problem for parsers
+23:55 fgsfgd: Yeah, usually you do not use scientific words, chemical formulas when talking with other people
+23:55 Juvete: Sometimes I do :)
+23:55 leulloe: Depends on the people :D
+23:55 Juvete: Exactly
+23:56 leulloe: I tend to speak about science to anyone willing to listen.
+23:56 leulloe: brb
+23:57 Juvete: Something particular to the written language is punctuation
+23:57 Juvete: Which has a partial correspondent in intonation
+23:58 ipspmpa: This will help the parsing process.
+23:58 leulloe: back
+23:58 Juvete: If you can construct a mapping
+23:59 fgsfgd: You do not pronounce a period, you just take a small pause.
+23:59 leulloe: And it seems to not appear in written conversations also.
+0:00 Juvete: And depending ont he duration it might be '.' or ',' or ';' or ...
+0:01 ipspmpa: You may construct the mapping with probabilities assigned.
+0:02 Juvete: Are you thinking about a probabilistic grammar?
+0:02 ipspmpa: Something like that.
+0:04 fgsfgd: In spoken language you may sometime use vocatives
+0:04 Juvete: Correct
+0:05 leulloe: Yes, for example when I'm talking to you, fgsfgd!
+0:05 fgsfgd: which are not used in writing.
+0:05 Juvete: You can't achieve the same impact in texts
+0:05 leulloe: Or imperative.
+0:05 fgsfgd: Unless you write about a conversation.
+0:05 leulloe: These have no meaning in a written text, unless it's direct speech.
+0:05 Juvete: But you write from the narators point of view
+0:06 leulloe: Depending on the text.
+0:06 ipspmpa: Depends on how you will interpret the punctuation.
+0:07 Juvete: Also there are sounds and words which don't have a direct correspondent.
+0:07 Juvete: For example, you can whistle at someone
+0:07 Juvete: But it a text, you can only say: The boy whistled
+0:08 leulloe: Onomatopoeia have some way to be written, and for the rest, there are emoticons.
+0:08 Juvete: But it isn't standard
+0:09 Juvete: For example the sound of a dog barking is written differently in different countries
+0:10 leulloe: Well, they are a part of the vocabulary for that language.
+0:10 leulloe: So that makes them standard.
+0:10 leulloe: At least in the context of a document written in a specific language.
+0:10 fgsfgd: And some are used quite frequently
+0:11 leulloe: ヽ(⌐■_■)ノ♪♬
+0:11 ipspmpa: Is this a dog barking?
+0:12 leulloe: No, it's Psy, singing Gangnam Style.
+0:12 Juvete: I think leulloe is whistling
+0:12 leulloe: I would have put *whistles*
+0:13 Juvete: I wouldn't
+0:13 leulloe: As it's done on forums and chats.
+0:13 leulloe: This notation is using the great power of text to reproduce the expressivity of speaking.
+0:13 leulloe: Well, to some extent.
+0:14 Juvete: You can't represent all spoken language through text
+0:14 Juvete: I am thinkin about something
+0:15 Juvete: When you write a text, in your head you speak to yourself
+0:15 Juvete: So there is some sort of connection
+0:15 leulloe: And choose the best line.
+0:16 ipspmpa: Yes, but you may lose information during the process.
+0:16 Juvete: It isn't perfect
+0:16 Juvete: But the brain manages the best it can
+0:16 leulloe: Writing is something like overpowered speaking with the audience far away in space and time.
+0:16 Juvete: You are overly dramatic
+0:17 leulloe: Wow, I like that. My new metaphor for writing.
+0:17 leulloe: What do you think?
+0:17 leulloe: it would be easier for a software
+0:17 ipspmpa: If when I will read your notes I am not hearing what you heard in your head, then the process is not fully reversible.
+0:18 leulloe: to analyze text...
+0:18 leulloe: or a textual representation of a conversation?
+0:18 leulloe: More specifically, a group conversation, because that's where you find real chaos.
+0:19 Juvete: When more speakers talk at the same time.
+0:20 ipspmpa: Chaos may appear
+0:20 leulloe: Sometimes that chaos is too much for a human mind.
+0:20 leulloe: I'd say software is doomed.
+0:21 ipspmpa: To reduce the entropy, the program should maintain multiple threads and recognize the context.
+0:21 Juvete: Determining the context is difficult, even for written text
+0:22 leulloe: And users tend to interrupt other users when speaking.
+0:22 Juvete: And they can change the topic instantly
+0:22 fgsfgd: Yeah, jokes need alot of context to understand
+0:22 Juvete: Exactly
+0:22 leulloe: For example, ipspmpa, the combo breaker.
+0:22 Juvete: :))
+0:23 Juvete: This is why a joke is much funnier when told by somenone
+0:23 ipspmpa: But the context switch is not random, it may be related, but not closed, to a current topic.
+0:23 leulloe: Or when you read it to yourself.
+0:24 Juvete: Due to the non-verbal communication
+0:24 leulloe: I don't have anyone to tell me jokes :(
+0:24 fgsfgd: intonation may have a great impact for jokes
+0:25 Juvete: Yes, there are words which have different meanings depeding on the pronounctiation
+0:26 leulloe: I'd say we took care of our assignment honorably.
+0:27 ipspmpa: So, it seem there are lot of differences between them.
+0:27 fgsfgd: so the conclusion is?
+0:27 fgsfgd: it is harder to parse conversations and face to face than written text?
+0:27 Juvete: Speech and text have a common base, but many differences.
+0:28 leulloe: Well, if I were to choose, I'd say we are more likely to advance a lot in analyzing text than in understanding conversations, written or spoken.
+0:28 ipspmpa: Programs should be aware which type of information they process.
+0:29 Juvete: There should be specialised programs for these tasks.
+0:29 leulloe: I mean, even is the vocabulary is larger and the phrases are more complex, the underlying structure is simpler.
+0:29 leulloe: And the content could be considered complete, to some extent.
+0:30 ipspmpa: Is closest to a machine format.
+0:30 ipspmpa: input.
+0:30 Juvete: Because you have to take in consideration the context of the discourse
+0:31 Juvete: Also, spoken text has many one-sentece word, such as: OK, fine
+0:31 Juvete: Which stand-alone have no meaning
+0:31 leulloe: In spoken language, information is missing, because it depends on the shared knowledge of the participants and only the minimum is clearly explained.
+0:31 ipspmpa: Which is harder when there are multiple switching.
+0:32 ipspmpa: In topics.
+0:32 leulloe: An outsider seeng the log can't ask questions is something was left missing.
+0:32 leulloe: seeing*
+0:32 fgsfgd: Some conversations may also depend exclusively where the speakers are situated.
+0:32 fgsfgd: "Look at this!"
+0:33 leulloe: Plus, all lines should be treated with caution, since they might be wrong in many ways.
+0:33 Juvete: And also on the number of participants: A speech, a broadcast, a simple conversation
+0:34 fgsfgd: or a group meeting
+0:34 leulloe: Poor chatbots. They have a very tough mission to learn for data that is that bad.
+0:34 ipspmpa: Or cultural level.
+0:34 leulloe: from*
+0:35 Juvete: It is hard enough for humans
+0:35 leulloe: OK, I'm out!
+0:35 leulloe: Good night!
+0:35 Juvete: It was nice talking to you.
+0:36 fgsfgd: And it will be probably hard enough for programs too, at least for now
+0:36 ipspmpa: Me too.
+0:36 Juvete: I think we have covered many key-points
+0:36 Juvete: So good job, team! :D
+0:36 ipspmpa: Good night!
+0:36 fgsfgd: Good night!
